@@ -1,6 +1,6 @@
 # Pizza nach neapolitanischer Art
 
-## Zutaten
+## Zutaten für 4 Pizzen
 
 * 350 g Mehl (00, zum Beispiel Caputo von Farina)
 * 680 g Tomaten-Passata
@@ -11,7 +11,7 @@
 * 200 ml warmes Wasser, am besten weiches Wasser - also aus der Flasche
 * Semola (für den Pizzaboden)
 
-* Belag (Ideen):
+### Belag (Ideen):
 * Klassisch: Mozarella (noch besser: Burrata), Salami Milano, Oliven, Thunfisch, Zwiebeln, Champignons, Basilikum, Oregano
 * Ausgefallen: Zucchini, Melanzani, Mais, Bohnen, Gorgonzola, Rucola, Feta, Trüffelöl, Walnüsse, Feigen, Lachs, Ricotta, Garnelen, Spargelspitzen, Sardellen
 * Experimentell: Spinat (möglichst trocken!), Ei (als letzte Zutat), Kürbis (+Kürbisöl nach dem backen), Zankerl (dünn geschnitten), Maroni, Heidelbeeren
